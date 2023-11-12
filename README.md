@@ -4,8 +4,7 @@ The Intelligent Traffic Management System for Smart Cities is a project aimed at
 
 
 
-# Installation &![Screenshot (1)](https://github.com/AhmedElnazer77/Traffic-Management-Sys.---Smart-Cities/assets/116668252/d7f1f800-71a2-4873-bb09-3f5965e4a05d)
- Guide for Traffic Management System:
+# Installation & Guide for Traffic Management System:
 
 1. Hardware Requirements:
 
@@ -34,7 +33,8 @@ The Intelligent Traffic Management System for Smart Cities is a project aimed at
 - Ensure that the microcontroller is powered on and connected to the hardware components properly.
 
 
-
+# Block Diagram
+![Screenshot (1)](https://github.com/AhmedElnazer77/Traffic-Management-Sys.---Smart-Cities/assets/116668252/ef8f76e7-a866-4eac-b2c0-bda26ac1d831)
 
 
 
